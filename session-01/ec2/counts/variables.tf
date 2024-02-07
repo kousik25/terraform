@@ -12,5 +12,5 @@ variable "zone_id" {
 }
 
 variable "domain_name" {
-  default = "devopsjoin.website "
+  default = "devopsjoin.website"
 }
